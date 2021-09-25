@@ -1,0 +1,51 @@
+{
+ "quotes" : [
+   { 
+		"quote" : "Some people feel the rain, others just get wet", 
+		"name" : "- Bob Marley" 
+	},
+	{
+		"quote" : "Not all those who wander are lost", 
+		"name" : "- J.R.R. Tolkien"
+	},
+	{
+		"quote" : "A lie can travel halfway around the world while the truth is putting on its shoes", 
+		"name" : "- Mark Twain"
+	},
+	{
+		"quote" : "Great minds discuss ideas; average minds discuss events; small minds discuss people", 
+		"name" : "- Eleanor Roosevelt"
+	},
+	{
+		"quote" : "The greatest glory in living lies not in never falling, but in rising every time we fall", 
+		"name" : "- Nelson Mandela"
+	},
+	{
+		"quote" : "Life is either a daring adventure or nothing at all", 
+		"name" : "- Helen Keller"
+	},
+	{
+		"quote" : "Everything in the universe is within you. Ask all from yourself", 
+		"name" : "- Rumi"
+	},
+	{
+		"quote" : "Don't judge each day by the harvest you reap but by the seeds that you plant", 
+		"name" : "- Robert Louis Stevenson"
+   },
+   {
+		"quote" : "Life is what happens when you're busy making other plans", 
+		"name" : "- John Lennon" 
+   },
+   {
+		"quote" : "If you are not willing to risk the usual, you will have to settle for the ordinary", 
+		"name" : "- Jim Rohn" 
+   },
+   {
+		"quote" : "If not us, who? If not now, when?", 
+		"name" : "- John F. Kennedy" 
+   },
+   {
+		"quote" : "Happiness can be found, even in the darkest of times, if one only remembers to turn on the light.", 
+		"name" : "- J. K. Rowling" 
+	}]}
+ 
